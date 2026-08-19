@@ -1,85 +1,136 @@
- # Hi, I'm Eng Fares 👋
+ # Hi, I'm Fares Ahmed 👋
 
-### Junior AI & Machine Learning Engineer
+### AI & Machine Learning Developer
 
-I'm passionate about Artificial Intelligence, Machine Learning, and building intelligent applications that solve real-world problems.
+I'm an **Information Systems student at Nile Academy** and an **AI & Machine Learning Engineering Trainee at Route Academy**, focused on building practical Machine Learning solutions and developing my skills toward a professional career in AI.
 
-Currently focused on developing my skills in **Machine Learning, Deep Learning, NLP, RAG, and Generative AI**.
+I enjoy working with data, building predictive models, optimizing ML pipelines, and turning real-world problems into data-driven solutions.
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 Route Academy Graduate
-- 🤖 Interested in AI & Machine Learning Engineering
-- 🧠 Building Machine Learning and NLP projects
-- 💬 Exploring RAG and Generative AI applications
-- 📈 Continuously learning and improving my AI engineering skills
-- 💼 Open to Junior AI/ML opportunities and freelance projects
+* 🎓 Information Systems student at **Nile Academy**
+* 🤖 AI & Machine Learning Engineering Trainee at **Route Academy**
+* 📊 Interested in Machine Learning, Data Analysis & Predictive Modeling
+* 🧹 Experienced with Data Cleaning, Preprocessing & Feature Engineering
+* 🧠 Currently studying **Deep Learning & Computer Vision**
+* 👁️ Building Computer Vision applications using **OpenCV & MediaPipe**
+* 💼 Open to AI/ML opportunities and internships
+* 🌍 Based in Egypt | Open to relocation
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-**Languages**
-- Python
-- SQL
+### 💻 Programming
 
-**Machine Learning & Data**
-- NumPy
-- Pandas
-- Scikit-learn
-- Matplotlib
-- Jupyter Notebook
+* Python
+* SQL
+* C++
 
-**AI**
-- Machine Learning
-- Deep Learning
-- Natural Language Processing (NLP)
-- Retrieval-Augmented Generation (RAG)
-- Generative AI
+### 🤖 Machine Learning
 
-**Tools**
-- Git & GitHub
-- VS Code
+* Linear Regression
+* Logistic Regression
+* SVM
+* Random Forest
+* XGBoost
+* K-Means Clustering
+* PCA
+
+### 📊 Data Processing & Analysis
+
+* NumPy
+* Pandas
+* Data Cleaning
+* Missing Data Handling
+* Categorical Encoding
+* Feature Scaling
+* Outlier Detection
+* Exploratory Data Analysis (EDA)
+
+### ⚙️ Model Development
+
+* Scikit-learn
+* Cross-Validation
+* Hyperparameter Tuning
+* Regression & Classification
+* Model Evaluation
+
+### 📈 Data Visualization
+
+* Matplotlib
+* Seaborn
+
+### 🧰 Tools
+
+* Git & GitHub
+* VS Code
+* Jupyter Notebook
+* Google Colab
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🩺 Multi-Class Medical Diagnosis using Machine Learning
-Machine learning project for classifying patient health status into multiple categories using models such as **SVM, KNN, and Random Forest**.
+### 🔬 End-to-End Predictive Analytics Pipeline
 
-### 🤖 RAG & NLP
-Exploring **Retrieval-Augmented Generation and Natural Language Processing** to build intelligent question-answering applications.
+Developed a complete Machine Learning pipeline covering:
 
-### 💬 AI Chat Application
-AI-powered chat application developed using Python and modern AI techniques.
-
-### 📊 K-Means Clustering
-Unsupervised machine learning project demonstrating **K-Means clustering** and data analysis.
+* Data Cleaning & Preprocessing
+* Feature Transformation
+* StandardScaler
+* OneHotEncoder
+* Model Evaluation
+* XGBoost Prediction
 
 ---
 
-## 🎯 Current Focus
+### 📊 Unsupervised Data Grouping & PCA
 
-I'm currently improving my skills in:
+Implemented **K-Means Clustering** combined with **Principal Component Analysis (PCA)** to group and visualize high-dimensional data while improving dataset interpretability.
 
-- Advanced Machine Learning
-- Deep Learning
-- NLP
-- RAG Systems
-- Generative AI
-- Building end-to-end AI applications
+---
+
+### 🩺 Multi-Class Medical Diagnosis using Machine Learning
+
+Built a Machine Learning approach for multi-class patient health classification using multiple classification algorithms and data preprocessing techniques.
+
+---
+
+### 👁️ Computer Vision & MediaPipe — In Progress
+
+Currently building real-time Computer Vision applications using:
+
+* OpenCV
+* MediaPipe
+* Gesture Recognition
+* Object Tracking
+
+---
+
+## 📚 Currently Learning
+
+* 🧠 Neural Networks
+* 👁️ Computer Vision
+* 🔥 Deep Learning
+* 🚀 End-to-End AI Application Development
+
+---
+
+## 🎯 Career Goal
+
+My goal is to grow as an **AI & Machine Learning Engineer**, build production-oriented AI projects, and apply Machine Learning to solve real-world problems.
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: @engfares983-coder
-- LinkedIn: Add your LinkedIn profile here
-- Email: Add your professional email here
+* 💼 LinkedIn: [www.linkedin.com/in/fares-badran-2800b23a4](http://www.linkedin.com/in/fares-badran-2800b23a4)
+* 📧 Email: [fbadran42@gmail.com](mailto:fbadran42@gmail.com)
+* 💻 GitHub: @engfares983-coder
 
 ---
 
-⭐ **Always learning, building, and exploring new technologies in AI.**
+⭐ **Learning by building. Improving with every project.**
