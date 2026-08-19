@@ -1,132 +1,176 @@
 <div align="center">
 
-# 👋 Hi, I'm Fares Ahmed
+# Fares Ahmed Fares Badran
 
 ### AI & Machine Learning Developer
 
-🎓 Information Systems Student @ Nile Academy
-🤖 AI & Machine Learning Engineering Trainee @ Route Academy
-🌍 Egypt | Open to Relocation
+**Information Systems Student · Machine Learning Engineer in Training · AI Enthusiast**
+
+`Python` · `Machine Learning` · `Data Science` · `Computer Vision`
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 Profile
 
-* 🤖 Focused on **Artificial Intelligence & Machine Learning**
-* 📊 Building predictive models and end-to-end ML pipelines
-* 🧹 Experienced with **Data Cleaning, Preprocessing & Feature Engineering**
-* 👁️ Currently studying **Deep Learning & Computer Vision**
-* 🖼️ Building Computer Vision applications with **OpenCV & MediaPipe**
-* 💼 Open to **AI/ML opportunities & internships**
+Information Systems student at **Nile Academy** and **AI & Machine Learning Engineering Trainee at Route Academy**, focused on designing practical machine learning solutions and developing end-to-end predictive systems.
 
----
+My work focuses on **data preprocessing, feature engineering, supervised & unsupervised learning, model optimization, and computer vision**.
 
-## 🛠️ Tech Stack
-
-### 💻 Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-
-### 🤖 Machine Learning & Data Science
-
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
-
-### 🧠 Machine Learning Techniques
-
-![SVM](https://img.shields.io/badge/SVM-Machine%20Learning-success?style=for-the-badge)
-![Random Forest](https://img.shields.io/badge/Random%20Forest-ML-success?style=for-the-badge)
-![XGBoost](https://img.shields.io/badge/XGBoost-ML-success?style=for-the-badge)
-![K-Means](https://img.shields.io/badge/K--Means-Clustering-success?style=for-the-badge)
-![PCA](https://img.shields.io/badge/PCA-Dimensionality%20Reduction-success?style=for-the-badge)
-
-### 🧰 Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge\&logo=googlecolab\&logoColor=white)
+Currently expanding my knowledge in **Deep Learning, Neural Networks, and Computer Vision** while building practical AI projects.
 
 ---
 
-## 🚀 Featured Projects
+## ⚡ Core Technologies
 
-### 🩺 Multi-Class Medical Diagnosis
+### Languages
 
-Machine Learning project for multi-class patient health classification using data preprocessing and multiple classification algorithms.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
 
-**Tech:** `Python` `Pandas` `Scikit-learn` `SVM` `Random Forest`
+### Machine Learning
 
----
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-ML-success?style=flat-square)
+![SVM](https://img.shields.io/badge/SVM-Classification-success?style=flat-square)
+![Random Forest](https://img.shields.io/badge/Random_Forest-Ensemble-success?style=flat-square)
+![K-Means](https://img.shields.io/badge/K--Means-Clustering-success?style=flat-square)
+![PCA](https://img.shields.io/badge/PCA-Dimensionality_Reduction-success?style=flat-square)
 
-### 📊 K-Means Clustering & PCA
+### Data & Visualization
 
-Unsupervised Machine Learning project combining **K-Means Clustering** with **PCA** to group and visualize high-dimensional data.
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Data_Visualization-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-Data_Visualization-4C72B0?style=flat-square)
 
-**Tech:** `Python` `Pandas` `Scikit-learn` `K-Means` `PCA`
+### Computer Vision
 
----
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-Computer_Vision-0097A7?style=flat-square)
 
-### 👁️ Computer Vision Image Filters
+### Development Tools
 
-Interactive Computer Vision project for applying and experimenting with image-processing techniques.
-
-**Tech:** `Python` `OpenCV` `Computer Vision`
-
----
-
-### 🤖 AI Chatbot
-
-AI-powered chatbot application built with Python.
-
-**Tech:** `Python` `AI`
-
----
-
-## 📚 Currently Learning
-
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-In%20Progress-green?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-In%20Progress-green?style=for-the-badge)
-![Neural Networks](https://img.shields.io/badge/Neural%20Networks-Learning-green?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square\&logo=jupyter\&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square\&logo=googlecolab\&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Machine Learning Expertise
+
+```text
+Data Preparation        ████████████████████
+Feature Engineering     ████████████████████
+Classification          ████████████████████
+Regression              ████████████████████
+Clustering              ████████████████████
+Model Optimization      ████████████████████
+Computer Vision         ███████████░░░░░░░░░
+Deep Learning           ████████░░░░░░░░░░░░
+```
+
+**Workflow**
+
+`Raw Data` → `Cleaning` → `EDA` → `Feature Engineering` → `Preprocessing` → `Model Training` → `Evaluation` → `Optimization`
+
+---
+
+## 🚀 Selected Projects
+
+### 01 · Multi-Class Medical Diagnosis
+
+**Machine Learning · Classification · Healthcare**
+
+Developed a multi-class machine learning solution for classifying patient health status using clinical features and multiple classification algorithms.
+
+`Python` `Pandas` `Scikit-learn` `SVM` `KNN` `Random Forest`
+
+**Repository →** [multi-class-medical-diagnosis](https://github.com/engfares983-coder/multi-class-medical-diagnosis)
+
+---
+
+### 02 · K-Means Clustering & PCA
+
+**Unsupervised Learning · Clustering · Dimensionality Reduction**
+
+Implemented K-Means clustering with Principal Component Analysis to group and visualize high-dimensional datasets while improving interpretability.
+
+`Python` `Pandas` `Scikit-learn` `K-Means` `PCA`
+
+**Repository →** [k-means-clustering-pca](https://github.com/engfares983-coder/k-means-clustering-pca)
+
+---
+
+### 03 · Computer Vision Image Filters
+
+**Computer Vision · Image Processing**
+
+Developed an interactive image-processing application for applying and experimenting with computer vision filtering techniques.
+
+`Python` `OpenCV` `Image Processing`
+
+**Repository →** [computer-vision-image-filters](https://github.com/engfares983-coder/computer-vision-image-filters)
+
+---
+
+### 04 · AI Chatbot
+
+**Artificial Intelligence · Python**
+
+Python-based conversational AI project focused on building interactive AI-powered experiences.
+
+`Python` `AI` `Chatbot`
+
+**Repository →** [ai-chatbot](https://github.com/engfares983-coder/ai-chatbot)
+
+---
+
+## 🔬 Current Development
+
+```text
+Deep Learning        → Neural Networks & Model Architecture
+Computer Vision      → OpenCV & MediaPipe
+Machine Learning     → Model Optimization & Advanced Pipelines
+AI Engineering       → End-to-End AI Applications
+```
+
+---
+
+## 🎓 Education & Training
+
+**Bachelor of Information Systems**
+Nile Academy · 2024 — 2028 (Expected)
+
+**AI & Machine Learning Engineering Training**
+Route Academy · December 2025 — Present
+
+---
+
+## 🎯 Engineering Focus
+
+> Build practical machine learning systems that transform raw data into reliable, measurable and useful predictions.
+
+My current goal is to strengthen my expertise in **Machine Learning Engineering and Computer Vision** while progressing toward production-oriented AI development.
+
+---
+
+## 🤝 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fares_Badran-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/fares-badran-2800b23a4)
+[![Email](https://img.shields.io/badge/Email-fbadran42%40gmail.com-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:fbadran42@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-engfares983--coder-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/engfares983-coder)
+
+---
 
 <div align="center">
 
-![Fares's GitHub Stats](https://github-readme-stats.vercel.app/api?username=engfares983-coder\&show_icons=true\&hide_border=true)
+**AI · MACHINE LEARNING · COMPUTER VISION**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=engfares983-coder\&layout=compact\&hide_border=true)
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fares%20Badran-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/fares-badran-2800b23a4)
-
-[![Gmail](https://img.shields.io/badge/Gmail-fbadran42%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:fbadran42@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-engfares983--coder-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/engfares983-coder)
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Learning by building. Improving with every project.
+*Building. Testing. Improving.*
 
 </div>
